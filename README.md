@@ -1,2 +1,5 @@
 # appTabBar
-Conteúdo criado nas aulas de MOBILE HÍBRIDO DEVELOPMENT
+- para navegar entre as paginas utilizado o "Menu" na parte superior do app.
+
+
+![PRINT!](tabBar.png).
